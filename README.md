@@ -12,7 +12,7 @@
 
 ## 快速部署步骤
 
-1. `$ git clone https://gitee.com/wuweixiang/javaweb-compose.git`
+1. `$ git clone https://github.com/cq0206/docker-java-web.git`
 2. `$ cd javaweb-compose`
 3. `$ docker-compose up -d`
 4. 访问 [http://127.0.0.1:8080](http://127.0.0.1:8080/)
