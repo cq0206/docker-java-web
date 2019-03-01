@@ -2,7 +2,7 @@
 # 1.源码仓库地址
 HTTP_URL=47.106.125.91/zhuoan/tao.magic.git
 # 2.git用户名
-GIT_USERNAME=wuweixiang
+GIT_USERNAME=qianpangzi
 # 3.git密码
 GIT_PASSWORD=***
 # 4.分支选择
