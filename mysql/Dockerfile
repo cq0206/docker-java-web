@@ -1,6 +1,6 @@
 # https://hub.docker.com/r/library/mysql/tags/
 FROM mysql:5.7
-MAINTAINER wuweixiang <wuweixiang.alex@gmail.com>
+MAINTAINER qianpangzi <cq20110310@gmail.com>
 
 # 将数据库备份脚本放到容器
 COPY backup.sh /usr/local
